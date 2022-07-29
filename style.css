@@ -1,0 +1,10 @@
+.carousel-caption{
+    height: 44rem;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 22rem 10rem;
+    right: 0%;
+    left: 0%;
+    bottom: 0rem;
+}
